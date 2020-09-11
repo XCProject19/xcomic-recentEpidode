@@ -2,22 +2,6 @@
 "series":
 [
 {
-"title" : "The Widow",
-"status" : "အပိုင်း(၂၃)",
-"image" : "https://1.bp.blogspot.com/-biCLiKE12Pw/Xx_Nr9PhSTI/AAAAAAAAVjc/VC5yr6E4cWA-8bBT-awcDzE7piXSiJg3gCLcBGAsYHQ/s1600/Screenshot_2020-07-28-13-25-40-811_com.android.chrome-picsay.jpg",
-"cover" : "https://1.bp.blogspot.com/-sLaWDl4ecZ8/Xx_NrxcAJJI/AAAAAAAAVjg/44W9PJFkQRgjMYWbYiLQlwIHXW0mFN8ggCLcBGAsYHQ/s400/The-Widow-193x278-picsay.jpg",
-"link" : "https://raw.githubusercontent.com/XCProject19/series-The-Widow/master/"
-
-}
-,{
-"title" : "Our Twenties",
-"status" : "အပိုင်း(၃၉)",
-"image" : "https://1.bp.blogspot.com/-sGWPs0J7098/XvnWsCmL_TI/AAAAAAAAGEU/4-FoD6zJskcMeZoUs_qVV7ZZQZ-GZUcPQCLcBGAsYHQ/s1600/IMG_20200629_182457.jpg",
-"cover" : "https://1.bp.blogspot.com/-LC97xjbbsz8/XvnWI5yPk4I/AAAAAAAAGEI/uRvVnIrSLeAxVb257IvzvdO2o_6ESwaFQCLcBGAsYHQ/s1600/ot%2Bimage.jpg",
-"link" : "https://raw.githubusercontent.com/XCProject19/series-our-twenties/master/"
-
-}
-,{
 "title" : "အချစ်ဦး",
 "status" : "အပိုင်း(၁၁)",
 "image" : "https://1.bp.blogspot.com/-Tie2g-NiT5U/Xzv35e6dJrI/AAAAAAAAakc/N1abU6cwIFg90sxNsvrNbEW6MSoWiRn_wCLcBGAsYHQ/s1600/IMG_20200818_221351.jpg",
@@ -57,6 +41,52 @@
 "image" : "https://1.bp.blogspot.com/-MQqzdu-mzoc/Xo_yzzlGz7I/AAAAAAAAE2g/bNbJVd9-yuYOwcFCUZdUy7S7JVLqFF5cACLcBGAsYHQ/s1600/sis_nbr.png",
 "link" : "https://raw.githubusercontent.com/XCProject19/SeriesSisNbr/master/"
 
+}
+,
+{
+"title" : "အချစ်ဦး",
+"status" : "အပိုင်း(၁၃)",
+"image" : "https://1.bp.blogspot.com/-Tie2g-NiT5U/Xzv35e6dJrI/AAAAAAAAakc/N1abU6cwIFg90sxNsvrNbEW6MSoWiRn_wCLcBGAsYHQ/s1600/IMG_20200818_221351.jpg",
+"cover" : "https://1.bp.blogspot.com/-WH4a5WQeX7g/Xzv35ZZJWhI/AAAAAAAAakY/v-7t4DZi1WUPYnsqwiC-TfND3NEls0dOACLcBGAsYHQ/s300/IMG_20200818_221455.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-firstlove/master/"
+
+}
+,
+{
+"title" : "Her Toy Store",
+"status" : "အပိုင်း(၂၃)",
+"image" : "https://1.bp.blogspot.com/-Xm-fy06uhOA/Xw7CvHL_lKI/AAAAAAAAPb8/YIJ_dlUHFYAalqqMc2Fxlp3DT2UMThwvACLcBGAsYHQ/s1600/IMG_20200715_151659.jpg",
+"cover" : "https://1.bp.blogspot.com/-zxwnytB2ANs/Xw6_P1gX2eI/AAAAAAAAPa4/9pzmk_3Eom0VCdk7QFHFY5RxAzMUmGsLQCLcBGAsYHQ/s1600/Her-Toy-Shop-193x278.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-Her-Toy-Store/master/"
+}
+,
+{
+"title" : "Perfect Roommates",
+"status" : "အပိုင်း(၄၀)",
+"cover" : "https://1.bp.blogspot.com/-d8w2bVPjnXU/XuNZE_H1OOI/AAAAAAAARUc/rNCgt9mXSicn_ccd5dhJ3ELjvsrPwDnKACLcBGAsYHQ/s320/The-Perfect-Roommates-193x278.jpg",
+"image" : "https://1.bp.blogspot.com/-VZ215Vy7tWo/XuNZXzSjNhI/AAAAAAAARUk/zTL_q2t7ijEo3zoOgP8-tGGj4s1-nhxnwCLcBGAsYHQ/s1600/IMG_20200612_165951.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-perfect-roommates/master/",
+"tag" : "",
+"vol" : "“သူတို့က ကျနော့မိသားစုဝင်တွေမဟုတ်ဘူး.... အဲ့မိန်းမတွေက သိုက်တူးသမားတွေပဲ....သူတို့ ကျနော့ကို ဒါမျိုးလာလုပ်တာတော့ လက်မခံနိုင်ဘူး...ကျနော် ........ ”"
+}
+,
+  {
+"title" : "My Kingdom",
+"status" : "အပိုင်း(၂၆)",
+"cover" : "https://1.bp.blogspot.com/-H5HLy9NoIFA/Xs5YdQZklVI/AAAAAAAAMOo/XTZzQn0CRA8AmpbIHOmYC3ejXCVLJolwACLcBGAsYHQ/s320/001cover.jpg",
+"image" : "https://1.bp.blogspot.com/-wypBtkdsJVk/Xs5SuLf1OII/AAAAAAAAL8Q/hJflA-MeYxQrwiCbqzFkm4mYGFKpR7SSQCK4BGAsYHg/s1600/IMG_20200527_181318.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-mykingdom/master/",
+"vol" : "ကျောင်းတက်ရ ငြီးငွေ့နေတဲ့ ဟွန်းတစ်ယောက် မဖြစ်သင့်တဲ့သူတစ်ယောက်နဲ့ နီးကပ်တဲ့ဆက်ဆံရေးရရှိပြီးတဲ့နောက် သူမမျှော်လင့်ခဲ့တာတွေ ဖြစ်လာတဲ့အခါ ဟွန်းတစ်ယောက် ဘာတွေဆက်ဖြစ်လာသလဲ....... 
+"
+}
+,
+   {
+"title" : "တိတ်တခိုး",
+"status" : "အပိုင်း(၆၈)",
+"cover" : "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s300/38.jpg",
+"image" : "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s300/38.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/Series-TatetaKhoe/master/",
+"vol" : "ဘဝ ဆိုတာ လောင်းကစား တစ်ခုပါပဲ...မိန်းမသား တစ်ယောက်ရဲ့...အိမ်ထောင်ရေး မပြေလည်မှုတွေ...သွေးသားဆန္ဒတွေ...ပုရိသ တွေရဲ့ရမ္မက်တွေ ကြားမှာ ဘယ်လိုရှေ့ဆက်မလဲဆိုတာ "
 }
 
 ]
