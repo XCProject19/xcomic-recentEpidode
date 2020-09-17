@@ -179,7 +179,7 @@
 "link" : "https://raw.githubusercontent.com/XCProject19/Series-TatetaKhoe/master/",
 "vol" : "ဘဝ ဆိုတာ လောင်းကစား တစ်ခုပါပဲ...မိန်းမသား တစ်ယောက်ရဲ့...အိမ်ထောင်ရေး မပြေလည်မှုတွေ...သွေးသားဆန္ဒတွေ...ပုရိသ တွေရဲ့ရမ္မက်တွေ ကြားမှာ ဘယ်လိုရှေ့ဆက်မလဲဆိုတာ "
 }
-  ,
+ ,
 {
 "title" : "The Widow",
 "status" : "အပိုင်း(၂၆)",
@@ -188,8 +188,8 @@
 "link" : "https://raw.githubusercontent.com/XCProject19/series-The-Widow/master/",
 "vol" : ""
 }
-    ,
-       {
+,
+{
 "title" : "Our Twenties",
 "status" : "အပိုင်း(၄၁)",
 "image" : "https://1.bp.blogspot.com/-sGWPs0J7098/XvnWsCmL_TI/AAAAAAAAGEU/4-FoD6zJskcMeZoUs_qVV7ZZQZ-GZUcPQCLcBGAsYHQ/s1600/IMG_20200629_182457.jpg",
@@ -197,6 +197,32 @@
 "link" : "https://raw.githubusercontent.com/XCProject19/series-our-twenties/master/",
 "vol" : ""
 }
+,
+{
+"title" : "အချစ်ဦး",
+"status" : "အပိုင်း(၁၅)",
+"image" : "https://1.bp.blogspot.com/-Tie2g-NiT5U/Xzv35e6dJrI/AAAAAAAAakc/N1abU6cwIFg90sxNsvrNbEW6MSoWiRn_wCLcBGAsYHQ/s1600/IMG_20200818_221351.jpg",
+"cover" : "https://1.bp.blogspot.com/-WH4a5WQeX7g/Xzv35ZZJWhI/AAAAAAAAakY/v-7t4DZi1WUPYnsqwiC-TfND3NEls0dOACLcBGAsYHQ/s300/IMG_20200818_221455.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-firstlove/master/"
 
+}
+,
+ {
+"title" : "အချစ်ဦး",
+"status" : "အပိုင်း(၁၆)",
+"image" : "https://1.bp.blogspot.com/-Tie2g-NiT5U/Xzv35e6dJrI/AAAAAAAAakc/N1abU6cwIFg90sxNsvrNbEW6MSoWiRn_wCLcBGAsYHQ/s1600/IMG_20200818_221351.jpg",
+"cover" : "https://1.bp.blogspot.com/-WH4a5WQeX7g/Xzv35ZZJWhI/AAAAAAAAakY/v-7t4DZi1WUPYnsqwiC-TfND3NEls0dOACLcBGAsYHQ/s300/IMG_20200818_221455.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-firstlove/master/"
+
+}
+,
+{
+"title" : "တိတ်တခိုး",
+"status" : "အပိုင်း(၇၀)",
+"image" : "https://1.bp.blogspot.com/-O6LImQX5JEs/X1uKi3andmI/AAAAAAAAg3Y/tkYwgQ4Ugh8-WPVEorPs17WarHkPNjciwCLcBGAsYHQ/s0/ttt.jpg",
+"cover" : "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s300/38.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/Series-TatetaKhoe/master/",
+"vol" : "ဘဝ ဆိုတာ လောင်းကစား တစ်ခုပါပဲ...မိန်းမသား တစ်ယောက်ရဲ့...အိမ်ထောင်ရေး မပြေလည်မှုတွေ...သွေးသားဆန္ဒတွေ...ပုရိသ တွေရဲ့ရမ္မက်တွေ ကြားမှာ ဘယ်လိုရှေ့ဆက်မလဲဆိုတာ "
+}
 ]
 }
