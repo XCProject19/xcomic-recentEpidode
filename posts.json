@@ -2,46 +2,6 @@
 "series":
 [
 {
-"title" : "အိမ်နီးချင်းမမ ",
-"status" : "အပိုင်း(၉၈)",
-"tag" : "",
-"cover" : "https://1.bp.blogspot.com/-2by5T2RoKBo/XiM3_-MgbhI/AAAAAAAAEYQ/hQ2pt6506FENrKTSjJBHu5gM_zjYidSNwCLcBGAsYHQ/s400/FB_IMG_1579365351585.jpg",
-"image" : "https://1.bp.blogspot.com/-MQqzdu-mzoc/Xo_yzzlGz7I/AAAAAAAAE2g/bNbJVd9-yuYOwcFCUZdUy7S7JVLqFF5cACLcBGAsYHQ/s1600/sis_nbr.png",
-"link" : "https://raw.githubusercontent.com/XCProject19/SeriesSisNbr/master/"
-
-}
-,
-{
-"title" : "အချစ်ဦး",
-"status" : "အပိုင်း(၁၃)",
-"tag" : "",
-"image" : "https://1.bp.blogspot.com/-Tie2g-NiT5U/Xzv35e6dJrI/AAAAAAAAakc/N1abU6cwIFg90sxNsvrNbEW6MSoWiRn_wCLcBGAsYHQ/s1600/IMG_20200818_221351.jpg",
-"cover" : "https://1.bp.blogspot.com/-WH4a5WQeX7g/Xzv35ZZJWhI/AAAAAAAAakY/v-7t4DZi1WUPYnsqwiC-TfND3NEls0dOACLcBGAsYHQ/s300/IMG_20200818_221455.jpg",
-"link" : "https://raw.githubusercontent.com/XCProject19/series-firstlove/master/"
-
-}
-,
-{
-"title" : "Her Toy Store",
-"status" : "အပိုင်း(၂၃)",
-"tag" : "",
-"image" : "https://1.bp.blogspot.com/-Xm-fy06uhOA/Xw7CvHL_lKI/AAAAAAAAPb8/YIJ_dlUHFYAalqqMc2Fxlp3DT2UMThwvACLcBGAsYHQ/s1600/IMG_20200715_151659.jpg",
-"cover" : "https://1.bp.blogspot.com/-zxwnytB2ANs/Xw6_P1gX2eI/AAAAAAAAPa4/9pzmk_3Eom0VCdk7QFHFY5RxAzMUmGsLQCLcBGAsYHQ/s1600/Her-Toy-Shop-193x278.jpg",
-"link" : "https://raw.githubusercontent.com/XCProject19/series-Her-Toy-Store/master/"
-}
-,
-{
-"title" : "Perfect Roommates",
-"status" : "အပိုင်း(၄၀)",
-"tag" : "",
-"cover" : "https://1.bp.blogspot.com/-d8w2bVPjnXU/XuNZE_H1OOI/AAAAAAAARUc/rNCgt9mXSicn_ccd5dhJ3ELjvsrPwDnKACLcBGAsYHQ/s320/The-Perfect-Roommates-193x278.jpg",
-"image" : "https://1.bp.blogspot.com/-VZ215Vy7tWo/XuNZXzSjNhI/AAAAAAAARUk/zTL_q2t7ijEo3zoOgP8-tGGj4s1-nhxnwCLcBGAsYHQ/s1600/IMG_20200612_165951.jpg",
-"link" : "https://raw.githubusercontent.com/XCProject19/series-perfect-roommates/master/",
-"tag" : "",
-"vol" : "“သူတို့က ကျနော့မိသားစုဝင်တွေမဟုတ်ဘူး.... အဲ့မိန်းမတွေက သိုက်တူးသမားတွေပဲ....သူတို့ ကျနော့ကို ဒါမျိုးလာလုပ်တာတော့ လက်မခံနိုင်ဘူး...ကျနော် ........ ”"
-}
-,
-  {
 "title" : "My Kingdom",
 "status" : "အပိုင်း(၂၆)",
 "tag" : "",
@@ -298,6 +258,26 @@
 "link" : " https://raw.githubusercontent.com/XCProject19/series-thegivinggirl/master/",
 "tag" : "",
 "vol" : ""
+},
+{
+"title" : "အချစ်ဦး",
+"status" : "အပိုင်း(၁၇)",
+"tag" : "",
+"image" : "https://1.bp.blogspot.com/-Tie2g-NiT5U/Xzv35e6dJrI/AAAAAAAAakc/N1abU6cwIFg90sxNsvrNbEW6MSoWiRn_wCLcBGAsYHQ/s1600/IMG_20200818_221351.jpg",
+"cover" : "https://1.bp.blogspot.com/-WH4a5WQeX7g/Xzv35ZZJWhI/AAAAAAAAakY/v-7t4DZi1WUPYnsqwiC-TfND3NEls0dOACLcBGAsYHQ/s300/IMG_20200818_221455.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-firstlove/master/"
+
 }
+,
+{
+"title" : "အချစ်ဦး",
+"status" : "အပိုင်း(၁၈)",
+"tag" : "",
+"image" : "https://1.bp.blogspot.com/-Tie2g-NiT5U/Xzv35e6dJrI/AAAAAAAAakc/N1abU6cwIFg90sxNsvrNbEW6MSoWiRn_wCLcBGAsYHQ/s1600/IMG_20200818_221351.jpg",
+"cover" : "https://1.bp.blogspot.com/-WH4a5WQeX7g/Xzv35ZZJWhI/AAAAAAAAakY/v-7t4DZi1WUPYnsqwiC-TfND3NEls0dOACLcBGAsYHQ/s300/IMG_20200818_221455.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-firstlove/master/"
+
+}
+
 ]
 }
