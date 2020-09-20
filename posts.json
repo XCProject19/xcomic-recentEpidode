@@ -297,6 +297,54 @@
 "tag" : "",
 "vol" : ""
 }   
+   ,
+   {
+"title" : "The Widow",
+"status" : "အပိုင်း(၂၇)",
+"tag" : "",
+"image" : "https://1.bp.blogspot.com/-biCLiKE12Pw/Xx_Nr9PhSTI/AAAAAAAAVjc/VC5yr6E4cWA-8bBT-awcDzE7piXSiJg3gCLcBGAsYHQ/s1600/Screenshot_2020-07-28-13-25-40-811_com.android.chrome-picsay.jpg",
+"cover" : "https://1.bp.blogspot.com/-sLaWDl4ecZ8/Xx_NrxcAJJI/AAAAAAAAVjg/44W9PJFkQRgjMYWbYiLQlwIHXW0mFN8ggCLcBGAsYHQ/s400/The-Widow-193x278-picsay.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-The-Widow/master/",
+"vol" : ""
+}
+   ,
+  {
+"title" : "တိတ်တခိုး",
+"status" : "အပိုင်း(၇၂)",
+"tag" : "",
+"image" : "https://1.bp.blogspot.com/-O6LImQX5JEs/X1uKi3andmI/AAAAAAAAg3Y/tkYwgQ4Ugh8-WPVEorPs17WarHkPNjciwCLcBGAsYHQ/s0/ttt.jpg",
+"cover" : "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s300/38.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/Series-TatetaKhoe/master/",
+"vol" : "ဘဝ ဆိုတာ လောင်းကစား တစ်ခုပါပဲ...မိန်းမသား တစ်ယောက်ရဲ့...အိမ်ထောင်ရေး မပြေလည်မှုတွေ...သွေးသားဆန္ဒတွေ...ပုရိသ တွေရဲ့ရမ္မက်တွေ ကြားမှာ ဘယ်လိုရှေ့ဆက်မလဲဆိုတာ "
+},
+   {
+"title" : "အချစ်ဦး",
+"status" : "အပိုင်း(၁၉)",
+"tag" : "",
+"image" : "https://1.bp.blogspot.com/-Tie2g-NiT5U/Xzv35e6dJrI/AAAAAAAAakc/N1abU6cwIFg90sxNsvrNbEW6MSoWiRn_wCLcBGAsYHQ/s1600/IMG_20200818_221351.jpg",
+"cover" : "https://1.bp.blogspot.com/-WH4a5WQeX7g/Xzv35ZZJWhI/AAAAAAAAakY/v-7t4DZi1WUPYnsqwiC-TfND3NEls0dOACLcBGAsYHQ/s300/IMG_20200818_221455.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-firstlove/master/"
+
+},
+   {
+"title" : "Mind Reader",
+"status" : "နအပိုင်း(၁၃)",
+"image" : "https://1.bp.blogspot.com/-xsKFQ7GRc18/XzERhwTLIKI/AAAAAAAAYXc/PAcQvuSzYfQq6i3NtkCxnS7FBBl-huWLgCLcBGAsYHQ/s1600/IMG_20200810_154910.jpg",
+"cover" : "https://1.bp.blogspot.com/-qIkPx_JmauQ/XzEJ9pNw39I/AAAAAAAAX1g/y2VNBN_poZEiF1j6kJPhlNDy6IRQ_6XswCLcBGAsYHQ/s320/Mind-Reader-193x278.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-mindReader/master/",
+"tag" : "",
+"vol" : ""
+},
+    {
+"title" : "Girls' Only",
+"status" : "အပိုင်း(၃)",
+"cover" : "https://1.bp.blogspot.com/-yHinxD4mASk/X2YYAmida2I/AAAAAAAAjuM/rltLPBHLTc8BmkOVbiKLohgZGlBMYtbwACLcBGAsYHQ/s320/c70f5bddebdeaa2f05785db5385e.jpg",
+"image" : "https://1.bp.blogspot.com/-omPC1QBJNf8/X2YXxebXOiI/AAAAAAAAjuI/8ibPIfYw3mEWayd_p1l1E23mtWRxv6aXQCLcBGAsYHQ/s1600/Screenshot_20200919-210302_Chrome-picsay.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-GirlsOnly/master/",
+"tag" : "",
+"vol" : ""
+}   
+   
 
 ]
 }
