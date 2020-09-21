@@ -344,7 +344,57 @@
 "tag" : "",
 "vol" : ""
 }   
-   
+    ,
+  {
+"title" : "My Kingdom",
+"status" : "အပိုင်း(၃၁)",
+"tag" : "",
+"cover" : "https://1.bp.blogspot.com/-H5HLy9NoIFA/Xs5YdQZklVI/AAAAAAAAMOo/XTZzQn0CRA8AmpbIHOmYC3ejXCVLJolwACLcBGAsYHQ/s320/001cover.jpg",
+"image" : "https://1.bp.blogspot.com/-wypBtkdsJVk/Xs5SuLf1OII/AAAAAAAAL8Q/hJflA-MeYxQrwiCbqzFkm4mYGFKpR7SSQCK4BGAsYHg/s1600/IMG_20200527_181318.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-mykingdom/master/",
+"vol" : "ကျောင်းတက်ရ ငြီးငွေ့နေတဲ့ ဟွန်းတစ်ယောက် မဖြစ်သင့်တဲ့သူတစ်ယောက်နဲ့ နီးကပ်တဲ့ဆက်ဆံရေးရရှိပြီးတဲ့နောက် သူမမျှော်လင့်ခဲ့တာတွေ ဖြစ်လာတဲ့အခါ ဟွန်းတစ်ယောက် ဘာတွေဆက်ဖြစ်လာသလဲ....... 
+"
+}
+    ,
+  {
+"title" : "တိတ်တခိုး",
+"status" : "အပိုင်း(၇၃)",
+"tag" : "",
+"image" : "https://1.bp.blogspot.com/-O6LImQX5JEs/X1uKi3andmI/AAAAAAAAg3Y/tkYwgQ4Ugh8-WPVEorPs17WarHkPNjciwCLcBGAsYHQ/s0/ttt.jpg",
+"cover" : "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s300/38.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/Series-TatetaKhoe/master/",
+"vol" : "ဘဝ ဆိုတာ လောင်းကစား တစ်ခုပါပဲ...မိန်းမသား တစ်ယောက်ရဲ့...အိမ်ထောင်ရေး မပြေလည်မှုတွေ...သွေးသားဆန္ဒတွေ...ပုရိသ တွေရဲ့ရမ္မက်တွေ ကြားမှာ ဘယ်လိုရှေ့ဆက်မလဲဆိုတာ "
+}
+      ,
+       {
+"title" : "The Memory Of u",
+"status" : "အပိုင်း(၂၇)",
+"tag" : "",
+"cover" : "https://1.bp.blogspot.com/-p8ga9j7mwks/XvMsixdYEpI/AAAAAAAADaA/iJfMVkcPYEUwpYODl8ap7zd2STCbz9m1wCLcBGAsYHQ/s1600/My-Memory-of-You-193x278.jpg",
+"image" : "https://1.bp.blogspot.com/-hsaeN9fSmvg/XvMuyt9WgDI/AAAAAAAADcU/oyVfv7otQFcrynWmSydiJyFd5Ui2HVCDACLcBGAsYHQ/s1600/IMG_20200624_171300.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-The-Memory-Of-u/master/",
+"vol" : ""
+}
+   , 
+{
+"title" : "Twice The Love",
+"status" : "အပိုင်း(၃)",
+"tag" : "",
+"cover" : "https://1.bp.blogspot.com/-r2BreSFbjj8/X2DSZ9SZWNI/AAAAAAAAhxo/8b5SyGVLaJAQLokSivzgbusuwNYfyJRkwCLcBGAsYHQ/s0/Twice-the-Love-193x278.jpg",
+"image" : "https://1.bp.blogspot.com/-covlZw35QT4/X2DR0qRJ09I/AAAAAAAAhxg/s_EFaCblxZI8ikaO5ext54CcH-7HtahiwCLcBGAsYHQ/s1600/Screenshot_20200915-210501_Chrome-picsay.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-Twice-The-Love/master/",
+"vol" : ""
+}
+   ,
+    {
+"title" : "Girls' Only",
+"status" : "အပိုင်း(၄)",
+"cover" : "https://1.bp.blogspot.com/-yHinxD4mASk/X2YYAmida2I/AAAAAAAAjuM/rltLPBHLTc8BmkOVbiKLohgZGlBMYtbwACLcBGAsYHQ/s320/c70f5bddebdeaa2f05785db5385e.jpg",
+"image" : "https://1.bp.blogspot.com/-omPC1QBJNf8/X2YXxebXOiI/AAAAAAAAjuI/8ibPIfYw3mEWayd_p1l1E23mtWRxv6aXQCLcBGAsYHQ/s1600/Screenshot_20200919-210302_Chrome-picsay.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-GirlsOnly/master/",
+"tag" : "",
+"vol" : ""
+}   
 
 ]
 }
