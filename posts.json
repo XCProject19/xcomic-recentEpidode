@@ -481,5 +481,45 @@
 "tag" : "",
 "vol" : ""
 }
+    ,  
+  {
+"title" : "Girls' Only",
+"status" : "အပိုင်း(၇)",
+"cover" : "https://1.bp.blogspot.com/-yHinxD4mASk/X2YYAmida2I/AAAAAAAAjuM/rltLPBHLTc8BmkOVbiKLohgZGlBMYtbwACLcBGAsYHQ/s320/c70f5bddebdeaa2f05785db5385e.jpg",
+"image" : "https://1.bp.blogspot.com/-omPC1QBJNf8/X2YXxebXOiI/AAAAAAAAjuI/8ibPIfYw3mEWayd_p1l1E23mtWRxv6aXQCLcBGAsYHQ/s1600/Screenshot_20200919-210302_Chrome-picsay.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-GirlsOnly/master/",
+"tag" : "",
+"vol" : ""
+} 
+    ,  
+  {
+"title" : "Girls' Only",
+"status" : "အပိုင်း(၈)",
+"cover" : "https://1.bp.blogspot.com/-yHinxD4mASk/X2YYAmida2I/AAAAAAAAjuM/rltLPBHLTc8BmkOVbiKLohgZGlBMYtbwACLcBGAsYHQ/s320/c70f5bddebdeaa2f05785db5385e.jpg",
+"image" : "https://1.bp.blogspot.com/-omPC1QBJNf8/X2YXxebXOiI/AAAAAAAAjuI/8ibPIfYw3mEWayd_p1l1E23mtWRxv6aXQCLcBGAsYHQ/s1600/Screenshot_20200919-210302_Chrome-picsay.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-GirlsOnly/master/",
+"tag" : "",
+"vol" : ""
+} 
+   , 
+{
+"title" : "Twice The Love",
+"status" : "အပိုင်း(၄)",
+"tag" : "",
+"cover" : "https://1.bp.blogspot.com/-r2BreSFbjj8/X2DSZ9SZWNI/AAAAAAAAhxo/8b5SyGVLaJAQLokSivzgbusuwNYfyJRkwCLcBGAsYHQ/s0/Twice-the-Love-193x278.jpg",
+"image" : "https://1.bp.blogspot.com/-covlZw35QT4/X2DR0qRJ09I/AAAAAAAAhxg/s_EFaCblxZI8ikaO5ext54CcH-7HtahiwCLcBGAsYHQ/s1600/Screenshot_20200915-210501_Chrome-picsay.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-Twice-The-Love/master/",
+"vol" : ""
+}
+   ,
+{
+"title" : "Her Toy Store",
+"status" : "အပိုင်း(၂၅)",
+"tag" : "",
+"image" : "https://1.bp.blogspot.com/-Xm-fy06uhOA/Xw7CvHL_lKI/AAAAAAAAPb8/YIJ_dlUHFYAalqqMc2Fxlp3DT2UMThwvACLcBGAsYHQ/s1600/IMG_20200715_151659.jpg",
+"cover" : "https://1.bp.blogspot.com/-zxwnytB2ANs/Xw6_P1gX2eI/AAAAAAAAPa4/9pzmk_3Eom0VCdk7QFHFY5RxAzMUmGsLQCLcBGAsYHQ/s1600/Her-Toy-Shop-193x278.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-Her-Toy-Store/master/"
+}
+   
 ]
 }
