@@ -541,5 +541,35 @@
 "vol" : "ကျောင်းတက်ရ ငြီးငွေ့နေတဲ့ ဟွန်းတစ်ယောက် မဖြစ်သင့်တဲ့သူတစ်ယောက်နဲ့ နီးကပ်တဲ့ဆက်ဆံရေးရရှိပြီးတဲ့နောက် သူမမျှော်လင့်ခဲ့တာတွေ ဖြစ်လာတဲ့အခါ ဟွန်းတစ်ယောက် ဘာတွေဆက်ဖြစ်လာသလဲ....... 
 "
 }
+     ,  
+  {
+"title" : "Girls' Only",
+"status" : "အပိုင်း(၉)",
+"cover" : "https://1.bp.blogspot.com/-yHinxD4mASk/X2YYAmida2I/AAAAAAAAjuM/rltLPBHLTc8BmkOVbiKLohgZGlBMYtbwACLcBGAsYHQ/s320/c70f5bddebdeaa2f05785db5385e.jpg",
+"image" : "https://1.bp.blogspot.com/-omPC1QBJNf8/X2YXxebXOiI/AAAAAAAAjuI/8ibPIfYw3mEWayd_p1l1E23mtWRxv6aXQCLcBGAsYHQ/s1600/Screenshot_20200919-210302_Chrome-picsay.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-GirlsOnly/master/",
+"tag" : "",
+"vol" : ""
+} 
+   ,
+       {
+"title" : "The Memory Of u",
+"status" : "အပိုင်း(၂၈)",
+"tag" : "",
+"cover" : "https://1.bp.blogspot.com/-p8ga9j7mwks/XvMsixdYEpI/AAAAAAAADaA/iJfMVkcPYEUwpYODl8ap7zd2STCbz9m1wCLcBGAsYHQ/s1600/My-Memory-of-You-193x278.jpg",
+"image" : "https://1.bp.blogspot.com/-hsaeN9fSmvg/XvMuyt9WgDI/AAAAAAAADcU/oyVfv7otQFcrynWmSydiJyFd5Ui2HVCDACLcBGAsYHQ/s1600/IMG_20200624_171300.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-The-Memory-Of-u/master/",
+"vol" : ""
+}
+   ,
+   {
+"title" : "Mind Reader",
+"status" : "နအပိုင်း(၁၄)",
+"image" : "https://1.bp.blogspot.com/-xsKFQ7GRc18/XzERhwTLIKI/AAAAAAAAYXc/PAcQvuSzYfQq6i3NtkCxnS7FBBl-huWLgCLcBGAsYHQ/s1600/IMG_20200810_154910.jpg",
+"cover" : "https://1.bp.blogspot.com/-qIkPx_JmauQ/XzEJ9pNw39I/AAAAAAAAX1g/y2VNBN_poZEiF1j6kJPhlNDy6IRQ_6XswCLcBGAsYHQ/s320/Mind-Reader-193x278.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-mindReader/master/",
+"tag" : "",
+"vol" : ""
+}
 ]
 }
