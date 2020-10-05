@@ -791,5 +791,34 @@
 "tag" : "",
 "vol" : ""
 }
+   ,{
+"title" : "Our Twenties",
+"status" : "အပိုင်း(၄၄)",
+"tag" : "",
+"image" : "https://1.bp.blogspot.com/-sGWPs0J7098/XvnWsCmL_TI/AAAAAAAAGEU/4-FoD6zJskcMeZoUs_qVV7ZZQZ-GZUcPQCLcBGAsYHQ/s1600/IMG_20200629_182457.jpg",
+"cover" : "https://1.bp.blogspot.com/-LC97xjbbsz8/XvnWI5yPk4I/AAAAAAAAGEI/uRvVnIrSLeAxVb257IvzvdO2o_6ESwaFQCLcBGAsYHQ/s1600/ot%2Bimage.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-our-twenties/master/",
+"vol" : ""
+}
+   ,
+       {
+"title" : "The Memory Of u",
+"status" : "အပိုင်း(၂၉)",
+"tag" : "",
+"cover" : "https://1.bp.blogspot.com/-p8ga9j7mwks/XvMsixdYEpI/AAAAAAAADaA/iJfMVkcPYEUwpYODl8ap7zd2STCbz9m1wCLcBGAsYHQ/s1600/My-Memory-of-You-193x278.jpg",
+"image" : "https://1.bp.blogspot.com/-hsaeN9fSmvg/XvMuyt9WgDI/AAAAAAAADcU/oyVfv7otQFcrynWmSydiJyFd5Ui2HVCDACLcBGAsYHQ/s1600/IMG_20200624_171300.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-The-Memory-Of-u/master/",
+"vol" : ""
+}
+   ,
+   {
+"title" : "Girls' Only",
+"status" : "အပိုင်း(၁၅)",
+"cover" : "https://1.bp.blogspot.com/-yHinxD4mASk/X2YYAmida2I/AAAAAAAAjuM/rltLPBHLTc8BmkOVbiKLohgZGlBMYtbwACLcBGAsYHQ/s320/c70f5bddebdeaa2f05785db5385e.jpg",
+"image" : "https://1.bp.blogspot.com/-omPC1QBJNf8/X2YXxebXOiI/AAAAAAAAjuI/8ibPIfYw3mEWayd_p1l1E23mtWRxv6aXQCLcBGAsYHQ/s1600/Screenshot_20200919-210302_Chrome-picsay.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-GirlsOnly/master/",
+"tag" : "",
+"vol" : ""
+} 
 ]
 }
