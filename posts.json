@@ -970,6 +970,35 @@ Copyright Credit To All Orginal Autors & Artists"
 "tag" : "",
 "vol" : ""
 }
- 
+ ,
+{
+"title" : "Mind Reader",
+"status" : "အပိုင်း (၁၇)",
+"tag" : "",
+"image" : "https://1.bp.blogspot.com/-xsKFQ7GRc18/XzERhwTLIKI/AAAAAAAAYXc/PAcQvuSzYfQq6i3NtkCxnS7FBBl-huWLgCLcBGAsYHQ/s1600/IMG_20200810_154910.jpg",
+"cover" : "https://1.bp.blogspot.com/-qIkPx_JmauQ/XzEJ9pNw39I/AAAAAAAAX1g/y2VNBN_poZEiF1j6kJPhlNDy6IRQ_6XswCLcBGAsYHQ/s320/Mind-Reader-193x278.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-mindReader/master/",
+"vol" : "."
+}
+  ,
+{
+"title" : "The Widow",
+"status" : "အပိုင်း(၃၄)",
+"tag" : "",
+"image" : "https://1.bp.blogspot.com/-biCLiKE12Pw/Xx_Nr9PhSTI/AAAAAAAAVjc/VC5yr6E4cWA-8bBT-awcDzE7piXSiJg3gCLcBGAsYHQ/s1600/Screenshot_2020-07-28-13-25-40-811_com.android.chrome-picsay.jpg",
+"cover" : "https://1.bp.blogspot.com/-sLaWDl4ecZ8/Xx_NrxcAJJI/AAAAAAAAVjg/44W9PJFkQRgjMYWbYiLQlwIHXW0mFN8ggCLcBGAsYHQ/s400/The-Widow-193x278-picsay.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-The-Widow/master/",
+"vol" : ""
+}
+  ,
+   {
+"title" : "Girls' Only",
+"status" : "အပိုင်း(၂၂)",
+"cover" : "https://1.bp.blogspot.com/-yHinxD4mASk/X2YYAmida2I/AAAAAAAAjuM/rltLPBHLTc8BmkOVbiKLohgZGlBMYtbwACLcBGAsYHQ/s320/c70f5bddebdeaa2f05785db5385e.jpg",
+"image" : "https://1.bp.blogspot.com/-omPC1QBJNf8/X2YXxebXOiI/AAAAAAAAjuI/8ibPIfYw3mEWayd_p1l1E23mtWRxv6aXQCLcBGAsYHQ/s1600/Screenshot_20200919-210302_Chrome-picsay.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-GirlsOnly/master/",
+"tag" : "",
+"vol" : ""
+}
 ]
 }
