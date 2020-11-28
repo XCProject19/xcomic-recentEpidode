@@ -390,7 +390,7 @@ Copyright Credit To All Orginal Autors & Artists"
 },{
 "title" : "The Girl Hiding in The Wall",
 "status" : "အပိုင်း(3)",
-"cover" : "https://1.bp.blogspot.com/-cc8pumE74NA/X8EV47tn3eI/AAAAAAAA1eg/apzVx9KzUqU3JqQOcJ5CB30pXSEj78jgwCLcBGAsYHQ/s0/tghitw1.jpg",
+"cover" : "https://1.bp.blogspot.com/-ogkR0cJpshg/X8JgUKhboVI/AAAAAAAA15o/KNT_gKAqzHI9Xm6nFBaxQEcJJ2wc4hG0gCLcBGAsYHQ/s0/TGHITW2.png",
 "image" : "https://1.bp.blogspot.com/-h6wM4ww65zA/X8EV7LGZgzI/AAAAAAAA1ek/h6mWVdzw20It1yYj7OvOBlzHm2FibGS8QCLcBGAsYHQ/s0/tghitw.png",
 "link" : "https://raw.githubusercontent.com/XCProject19/xcomic/main/theGirlHidingInTheWall/",
 "tag" : "",
@@ -413,5 +413,26 @@ Copyright Credit To All Orginal Autors & Artists"
 "link" : "https://raw.githubusercontent.com/XCProject19/series-Twice-The-Love/master/",
 "vol" : ""
 }
+  ,
+{
+"title" : "The Widow",
+"status" : "အပိုင်း(၄၁)",
+"tag" : "",
+"image" : "https://1.bp.blogspot.com/-biCLiKE12Pw/Xx_Nr9PhSTI/AAAAAAAAVjc/VC5yr6E4cWA-8bBT-awcDzE7piXSiJg3gCLcBGAsYHQ/s1600/Screenshot_2020-07-28-13-25-40-811_com.android.chrome-picsay.jpg",
+"cover" : "https://1.bp.blogspot.com/-sLaWDl4ecZ8/Xx_NrxcAJJI/AAAAAAAAVjg/44W9PJFkQRgjMYWbYiLQlwIHXW0mFN8ggCLcBGAsYHQ/s400/The-Widow-193x278-picsay.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-The-Widow/master/",
+"vol" : ""
+}
+   ,
+   {
+"title" : "Girls' Only",
+"status" : "အပိုင်း(၃၉)",
+"cover" : "https://1.bp.blogspot.com/-yHinxD4mASk/X2YYAmida2I/AAAAAAAAjuM/rltLPBHLTc8BmkOVbiKLohgZGlBMYtbwACLcBGAsYHQ/s320/c70f5bddebdeaa2f05785db5385e.jpg",
+"image" : "https://1.bp.blogspot.com/-omPC1QBJNf8/X2YXxebXOiI/AAAAAAAAjuI/8ibPIfYw3mEWayd_p1l1E23mtWRxv6aXQCLcBGAsYHQ/s1600/Screenshot_20200919-210302_Chrome-picsay.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-GirlsOnly/master/",
+"tag" : "",
+"vol" : ""
+}
+ 
 ]
 }
